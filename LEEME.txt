@@ -1,7 +1,11 @@
-STRUDEL INTENSIV — VERSIÓN 1
+STRUDEL INTENSIV V2
 
-Sube TODOS los archivos de esta carpeta a la raíz de un repositorio de GitHub. En Settings > Pages elige Deploy from a branch, main, / (root). Abre la URL que GitHub Pages te indique.
+Actualización desde V1: reemplaza TODOS los archivos de tu repositorio GitHub por los de este ZIP, sin cambiar el nombre del repositorio. Mantén el mismo dominio de GitHub Pages.
 
-Contenido actual: 3 lecciones originales A1, 9 preguntas, corrección, audio del navegador, modo oscuro, texto grande, progreso local, PWA y caché offline. No contiene páginas copiadas de Momente.
+12 lecciones (3 existentes + 9 nuevas), 45 ejercicios, plan flexible, registro de errores, voz alemana y modo docente inicial.
 
-IMPORTANTE: el progreso se guarda solo en el navegador/dispositivo; borrar los datos del navegador puede eliminarlo. Las voces de audio dependen del dispositivo y pueden requerir conexión. Para actualizar: reemplaza archivos y espera que se renueve la caché; si no ves cambios, cierra y reabre la app.
+Se conserva el progreso anterior almacenado en localStorage bajo strudel-progress. No borres datos del sitio.
+
+Si la app instalada muestra la versión vieja, cierra y vuelve a abrir o recarga dos veces para actualizar el service worker.
+
+Contenido didáctico original basado en temas de Momente A1.1; no afiliado a Hueber.

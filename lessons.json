@@ -127,5 +127,482 @@
         "why": "«Vater» es masculino nominativo: «mein Vater»."
       }
     ]
+  },
+  {
+    "id": "04",
+    "title": "Das Bild ist so schön",
+    "subtitle": "Muebles, precios y artículos",
+    "explain": "Los sustantivos alemanes tienen género: der (masculino), die (femenino), das (neutro). Aprende siempre cada palabra junto con su artículo. Para precios: Wie viel kostet ...?",
+    "examples": [
+      "Der Stuhl ist bequem.",
+      "Die Lampe ist schön.",
+      "Das Sofa kostet dreihundert Euro."
+    ],
+    "questions": [
+      {
+        "q": "¿Cuál es el artículo de «Tisch» (mesa)?",
+        "a": [
+          "der",
+          "die",
+          "das"
+        ],
+        "correct": 0,
+        "why": "Se dice der Tisch."
+      },
+      {
+        "q": "Completa: ___ Lampe ist neu.",
+        "a": [
+          "Der",
+          "Die",
+          "Das"
+        ],
+        "correct": 1,
+        "why": "Lampe es femenino: die Lampe."
+      },
+      {
+        "q": "¿Cómo preguntas cuánto cuesta algo?",
+        "a": [
+          "Wie alt bist du?",
+          "Wie viel kostet das?",
+          "Woher kommst du?"
+        ],
+        "correct": 1,
+        "why": "Wie viel kostet das? significa ¿Cuánto cuesta eso?"
+      },
+      {
+        "q": "«Das Sofa ist teuer» significa…",
+        "a": [
+          "El sofá es caro",
+          "El sofá es pequeño",
+          "El sofá es nuevo"
+        ],
+        "correct": 0,
+        "why": "teuer = caro."
+      }
+    ]
+  },
+  {
+    "id": "05",
+    "title": "Ist das ein Tisch?",
+    "subtitle": "Objetos, colores y negación",
+    "explain": "Usa ein/eine para un objeto indefinido. Para negar sustantivos, emplea kein/keine. Los colores y materiales ayudan a describir cosas.",
+    "examples": [
+      "Ist das ein Buch? – Ja, das ist ein Buch.",
+      "Das ist keine Tasche.",
+      "Der Tisch ist aus Holz."
+    ],
+    "questions": [
+      {
+        "q": "Completa: Das ist ___ Tasche.",
+        "a": [
+          "ein",
+          "eine",
+          "einen"
+        ],
+        "correct": 1,
+        "why": "Tasche es femenino: eine Tasche."
+      },
+      {
+        "q": "Niega: Das ist ___ Auto.",
+        "a": [
+          "kein",
+          "keine",
+          "nicht ein"
+        ],
+        "correct": 0,
+        "why": "Auto es neutro: kein Auto."
+      },
+      {
+        "q": "¿Qué significa «aus Holz»?",
+        "a": [
+          "de madera",
+          "de metal",
+          "de plástico"
+        ],
+        "correct": 0,
+        "why": "aus Holz = de madera."
+      },
+      {
+        "q": "«Rot» es el color…",
+        "a": [
+          "azul",
+          "rojo",
+          "verde"
+        ],
+        "correct": 1,
+        "why": "rot = rojo."
+      }
+    ]
+  },
+  {
+    "id": "06",
+    "title": "Wir haben einen Termin",
+    "subtitle": "Oficina, tecnología y acusativo",
+    "explain": "El acusativo marca frecuentemente el objeto directo. En masculino, ein → einen y der → den. En femenino y neutro, los artículos indefinidos no cambian en acusativo.",
+    "examples": [
+      "Ich habe einen Computer.",
+      "Wir brauchen einen Termin.",
+      "Sie kauft eine Tastatur."
+    ],
+    "questions": [
+      {
+        "q": "Completa: Ich habe ___ Termin.",
+        "a": [
+          "ein",
+          "einen",
+          "eine"
+        ],
+        "correct": 1,
+        "why": "Termin es masculino y objeto directo: einen Termin."
+      },
+      {
+        "q": "Completa: Wir kaufen ___ Laptop.",
+        "a": [
+          "einen",
+          "eine",
+          "ein"
+        ],
+        "correct": 0,
+        "why": "Laptop suele ser masculino: einen Laptop."
+      },
+      {
+        "q": "Completa: Sie hat ___ Tastatur.",
+        "a": [
+          "ein",
+          "eine",
+          "einen"
+        ],
+        "correct": 1,
+        "why": "Tastatur es femenino: eine Tastatur."
+      },
+      {
+        "q": "¿Qué significa «Wir haben einen Termin»?",
+        "a": [
+          "Tenemos una cita",
+          "Tenemos un libro",
+          "Tenemos tiempo libre"
+        ],
+        "correct": 0,
+        "why": "einen Termin haben = tener una cita."
+      }
+    ]
+  },
+  {
+    "id": "07",
+    "title": "Du kannst wirklich gut tanzen!",
+    "subtitle": "Aficiones y verbos modales",
+    "explain": "Con können expresas habilidad. El verbo modal conjugado va en segunda posición y el infinitivo principal al final: Ich kann gut schwimmen.",
+    "examples": [
+      "Ich kann gut singen.",
+      "Kannst du Fahrrad fahren?",
+      "Wir können heute tanzen."
+    ],
+    "questions": [
+      {
+        "q": "Completa: Ich ___ Deutsch sprechen.",
+        "a": [
+          "kann",
+          "kannst",
+          "können"
+        ],
+        "correct": 0,
+        "why": "Con ich se usa kann."
+      },
+      {
+        "q": "Orden correcto: «Tú puedes nadar».",
+        "a": [
+          "Du schwimmen kannst.",
+          "Du kannst schwimmen.",
+          "Kannst schwimmen du."
+        ],
+        "correct": 1,
+        "why": "Modal en segunda posición e infinitivo al final."
+      },
+      {
+        "q": "«Ich kann nicht tanzen» significa…",
+        "a": [
+          "No quiero bailar",
+          "No puedo bailar",
+          "No debo bailar"
+        ],
+        "correct": 1,
+        "why": "kann nicht = no puedo."
+      },
+      {
+        "q": "Completa: Wir ___ gut kochen.",
+        "a": [
+          "kann",
+          "können",
+          "könnt"
+        ],
+        "correct": 1,
+        "why": "Con wir se usa können."
+      }
+    ]
+  },
+  {
+    "id": "08",
+    "title": "Kein Problem. Ich habe Zeit!",
+    "subtitle": "Horas y citas",
+    "explain": "Para decir la hora informalmente puedes usar Es ist acht Uhr. Para acordar una cita: Hast du am Montag Zeit? Los días se introducen con am.",
+    "examples": [
+      "Es ist neun Uhr.",
+      "Hast du am Dienstag Zeit?",
+      "Um zehn Uhr habe ich einen Termin."
+    ],
+    "questions": [
+      {
+        "q": "¿Cómo se dice «Son las nueve»?",
+        "a": [
+          "Es ist neun Uhr.",
+          "Ich bin neun Uhr.",
+          "Das neun Uhr."
+        ],
+        "correct": 0,
+        "why": "Es ist ... Uhr indica la hora."
+      },
+      {
+        "q": "Completa: ___ Montag habe ich Zeit.",
+        "a": [
+          "Um",
+          "Am",
+          "Im"
+        ],
+        "correct": 1,
+        "why": "Para días: am Montag."
+      },
+      {
+        "q": "¿Qué significa «um zehn Uhr»?",
+        "a": [
+          "a las diez",
+          "el día diez",
+          "en diez minutos"
+        ],
+        "correct": 0,
+        "why": "um + hora = a las ..."
+      },
+      {
+        "q": "«Hast du Zeit?» pregunta…",
+        "a": [
+          "¿Tienes tiempo?",
+          "¿Tienes hambre?",
+          "¿Tienes sueño?"
+        ],
+        "correct": 0,
+        "why": "Zeit = tiempo."
+      }
+    ]
+  },
+  {
+    "id": "09",
+    "title": "Ich möchte was essen",
+    "subtitle": "Comidas y pedidos",
+    "explain": "möchten se usa para pedir con cortesía: Ich möchte einen Tee. En restaurantes: Ich hätte gern ... es otra forma cortés de pedir.",
+    "examples": [
+      "Ich möchte einen Kaffee, bitte.",
+      "Ich hätte gern eine Suppe.",
+      "Die Rechnung, bitte!"
+    ],
+    "questions": [
+      {
+        "q": "¿Cómo pides un café cortésmente?",
+        "a": [
+          "Ich möchte einen Kaffee.",
+          "Ich bin ein Kaffee.",
+          "Ich komme Kaffee."
+        ],
+        "correct": 0,
+        "why": "Ich möchte = quisiera."
+      },
+      {
+        "q": "«Die Rechnung, bitte!» significa…",
+        "a": [
+          "La carta, por favor",
+          "La cuenta, por favor",
+          "La mesa, por favor"
+        ],
+        "correct": 1,
+        "why": "Rechnung = cuenta."
+      },
+      {
+        "q": "Completa: Ich ___ gern Wasser.",
+        "a": [
+          "hätte",
+          "bist",
+          "hast"
+        ],
+        "correct": 0,
+        "why": "Ich hätte gern = me gustaría."
+      },
+      {
+        "q": "¿Cuál es la traducción de «Suppe»?",
+        "a": [
+          "sopa",
+          "ensalada",
+          "pan"
+        ],
+        "correct": 0,
+        "why": "Suppe = sopa."
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "title": "Ich steige jetzt in die U-Bahn ein",
+    "subtitle": "Transporte y verbos separables",
+    "explain": "Algunos verbos llevan prefijos separables: einsteigen → Ich steige ein. En oraciones principales la partícula se coloca al final.",
+    "examples": [
+      "Ich steige an der Haltestelle ein.",
+      "Wir fahren mit dem Bus.",
+      "Wann kommt der Zug an?"
+    ],
+    "questions": [
+      {
+        "q": "Completa: Ich steige jetzt ___.",
+        "a": [
+          "ein",
+          "an",
+          "auf"
+        ],
+        "correct": 0,
+        "why": "einsteigen = subir a un medio de transporte."
+      },
+      {
+        "q": "«mit dem Bus» significa…",
+        "a": [
+          "con el autobús / en autobús",
+          "sin autobús",
+          "hacia el autobús"
+        ],
+        "correct": 0,
+        "why": "mit dem Bus = en autobús."
+      },
+      {
+        "q": "¿Dónde va «an» en «Der Zug kommt um acht Uhr ___»?",
+        "a": [
+          "al final",
+          "antes de Zug",
+          "antes de kommt"
+        ],
+        "correct": 0,
+        "why": "ankommen es separable: kommt ... an."
+      },
+      {
+        "q": "«die U-Bahn» es…",
+        "a": [
+          "el metro",
+          "el avión",
+          "el tranvía"
+        ],
+        "correct": 0,
+        "why": "U-Bahn = metro."
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "title": "Was hast du gestern gemacht?",
+    "subtitle": "Pasado: Perfekt con haben",
+    "explain": "El Perfekt suele formarse con haben + participio pasado. Con verbos regulares: ge- + raíz + -t. Ejemplo: Ich habe gelernt.",
+    "examples": [
+      "Ich habe gestern Deutsch gelernt.",
+      "Wir haben Pizza gekocht.",
+      "Hast du Musik gehört?"
+    ],
+    "questions": [
+      {
+        "q": "Completa: Ich ___ Deutsch gelernt.",
+        "a": [
+          "habe",
+          "bin",
+          "hat"
+        ],
+        "correct": 0,
+        "why": "lernen forma el Perfekt con haben."
+      },
+      {
+        "q": "Participio de «machen»",
+        "a": [
+          "gemacht",
+          "gemachen",
+          "macht"
+        ],
+        "correct": 0,
+        "why": "machen → gemacht."
+      },
+      {
+        "q": "«gestern» significa…",
+        "a": [
+          "mañana",
+          "ayer",
+          "hoy"
+        ],
+        "correct": 1,
+        "why": "gestern = ayer."
+      },
+      {
+        "q": "Completa: Wir haben Musik ___.",
+        "a": [
+          "gehört",
+          "gehören",
+          "hören"
+        ],
+        "correct": 0,
+        "why": "hören → gehört."
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "title": "Ich bin nach Berlin gefahren",
+    "subtitle": "Pasado: Perfekt con sein",
+    "explain": "Muchos verbos de desplazamiento forman el Perfekt con sein: Ich bin gefahren. Aprende cada verbo con su auxiliar y participio.",
+    "examples": [
+      "Ich bin nach Berlin gefahren.",
+      "Wir sind spät angekommen.",
+      "Sie ist nach Hause gegangen."
+    ],
+    "questions": [
+      {
+        "q": "Completa: Ich ___ nach Hause gegangen.",
+        "a": [
+          "habe",
+          "bin",
+          "hat"
+        ],
+        "correct": 1,
+        "why": "gehen forma Perfekt con sein."
+      },
+      {
+        "q": "Participio de «fahren»",
+        "a": [
+          "gefahrt",
+          "gefahren",
+          "gefahrtet"
+        ],
+        "correct": 1,
+        "why": "fahren → gefahren."
+      },
+      {
+        "q": "Completa: Wir ___ nach Berlin gefahren.",
+        "a": [
+          "haben",
+          "sind",
+          "seid"
+        ],
+        "correct": 1,
+        "why": "Con wir: sind gefahren."
+      },
+      {
+        "q": "«angekommen» corresponde a…",
+        "a": [
+          "ankommen",
+          "kaufen",
+          "lernen"
+        ],
+        "correct": 0,
+        "why": "ankommen → angekommen."
+      }
+    ]
   }
 ]
