@@ -1,11 +1,6 @@
-STRUDEL INTENSIV V2
+STRUDEL INTENSIV v3
 
-Actualización desde V1: reemplaza TODOS los archivos de tu repositorio GitHub por los de este ZIP, sin cambiar el nombre del repositorio. Mantén el mismo dominio de GitHub Pages.
-
-12 lecciones (3 existentes + 9 nuevas), 45 ejercicios, plan flexible, registro de errores, voz alemana y modo docente inicial.
-
-Se conserva el progreso anterior almacenado en localStorage bajo strudel-progress. No borres datos del sitio.
-
-Si la app instalada muestra la versión vieja, cierra y vuelve a abrir o recarga dos veces para actualizar el service worker.
-
-Contenido didáctico original basado en temas de Momente A1.1; no afiliado a Hueber.
+Actualización sobre v2: 12 lecciones, 117 preguntas, examen de 36 preguntas, checklist diario y kit docente.
+Sube los 7 archivos a la raíz del repositorio StrudelIntensiv, reemplazando los anteriores.
+No borres los datos del navegador para conservar el progreso.
+El examen y las preguntas son práctica original, no una certificación ni reproducción de Momente.

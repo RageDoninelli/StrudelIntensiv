@@ -39,6 +39,66 @@
         ],
         "correct": 2,
         "why": "«Guten Morgen!» significa «Buenos días» por la mañana."
+      },
+      {
+        "q": "¿Qué significa «Guten Morgen»?",
+        "a": [
+          "Buenas noches",
+          "Buenos días",
+          "Hasta luego"
+        ],
+        "correct": 1,
+        "why": "Guten Morgen es un saludo matutino."
+      },
+      {
+        "q": "Completa: Ich ___ Maria.",
+        "a": [
+          "heiße",
+          "heißt",
+          "heißen"
+        ],
+        "correct": 0,
+        "why": "Con ich: heiße."
+      },
+      {
+        "q": "¿Cuál es el pronombre de «nosotros»?",
+        "a": [
+          "ihr",
+          "wir",
+          "sie"
+        ],
+        "correct": 1,
+        "why": "Wir significa nosotros."
+      },
+      {
+        "q": "Completa: Wie ___ du?",
+        "a": [
+          "heiße",
+          "heißt",
+          "heißen"
+        ],
+        "correct": 1,
+        "why": "Con du: heißt."
+      },
+      {
+        "q": "¿Cómo dices «mucho gusto»?",
+        "a": [
+          "Freut mich!",
+          "Gute Nacht!",
+          "Bis morgen!"
+        ],
+        "correct": 0,
+        "why": "Freut mich expresa gusto al conocer a alguien."
+      },
+      {
+        "q": "Completa: Er ___ Lehrer.",
+        "a": [
+          "bin",
+          "bist",
+          "ist"
+        ],
+        "correct": 2,
+        "why": "Er ist = él es."
       }
     ]
   },
@@ -82,6 +142,66 @@
         ],
         "correct": 2,
         "why": "«sprechen» cambia la vocal con «er/sie/es»: spricht."
+      },
+      {
+        "q": "Completa: Ich ___ aus Guatemala.",
+        "a": [
+          "kommst",
+          "komme",
+          "kommt"
+        ],
+        "correct": 1,
+        "why": "Con ich: komme."
+      },
+      {
+        "q": "¿Qué significa «Wo wohnst du?»?",
+        "a": [
+          "¿Dónde vives?",
+          "¿De dónde eres?",
+          "¿Cómo estás?"
+        ],
+        "correct": 0,
+        "why": "Wohnen = vivir/residir."
+      },
+      {
+        "q": "Completa: Wir ___ Deutsch.",
+        "a": [
+          "lernen",
+          "lernt",
+          "lerne"
+        ],
+        "correct": 0,
+        "why": "Con wir: lernen."
+      },
+      {
+        "q": "«Sie spricht Italienisch» significa:",
+        "a": [
+          "Ella habla italiano",
+          "Ellos estudian inglés",
+          "Usted vive en Italia"
+        ],
+        "correct": 0,
+        "why": "Sie (ella) spricht = habla."
+      },
+      {
+        "q": "Completa: Du ___ in Berlin.",
+        "a": [
+          "wohne",
+          "wohnst",
+          "wohnt"
+        ],
+        "correct": 1,
+        "why": "Con du: wohnst."
+      },
+      {
+        "q": "¿Qué significa «auch»?",
+        "a": [
+          "nunca",
+          "también",
+          "siempre"
+        ],
+        "correct": 1,
+        "why": "Auch = también."
       }
     ]
   },
@@ -125,6 +245,66 @@
         ],
         "correct": 0,
         "why": "«Vater» es masculino nominativo: «mein Vater»."
+      },
+      {
+        "q": "«die Mutter» significa:",
+        "a": [
+          "el padre",
+          "la madre",
+          "la hermana"
+        ],
+        "correct": 1,
+        "why": "Die Mutter = la madre."
+      },
+      {
+        "q": "Completa: Das ist ___ Bruder.",
+        "a": [
+          "mein",
+          "meine",
+          "meinen"
+        ],
+        "correct": 0,
+        "why": "Bruder es masculino en nominativo: mein."
+      },
+      {
+        "q": "¿Cómo se dice «mis padres»?",
+        "a": [
+          "meine Eltern",
+          "mein Eltern",
+          "meinen Eltern"
+        ],
+        "correct": 0,
+        "why": "Eltern es plural: meine Eltern."
+      },
+      {
+        "q": "«der Sohn» significa:",
+        "a": [
+          "el hijo",
+          "la hija",
+          "el tío"
+        ],
+        "correct": 0,
+        "why": "Sohn = hijo."
+      },
+      {
+        "q": "Completa: ___ Schwester heißt Anna.",
+        "a": [
+          "Mein",
+          "Meine",
+          "Meinen"
+        ],
+        "correct": 1,
+        "why": "Schwester es femenino: meine."
+      },
+      {
+        "q": "«Ich habe zwei Geschwister» significa:",
+        "a": [
+          "Tengo dos hermanos/as",
+          "Tengo dos hijos",
+          "Vivo con dos personas"
+        ],
+        "correct": 0,
+        "why": "Geschwister se refiere a hermanos y hermanas."
       }
     ]
   },
@@ -178,6 +358,66 @@
         ],
         "correct": 0,
         "why": "teuer = caro."
+      },
+      {
+        "q": "¿Cuál es el artículo de «Buch»?",
+        "a": [
+          "der",
+          "die",
+          "das"
+        ],
+        "correct": 2,
+        "why": "Das Buch."
+      },
+      {
+        "q": "«schön» significa:",
+        "a": [
+          "bonito",
+          "caro",
+          "viejo"
+        ],
+        "correct": 0,
+        "why": "Schön = bonito."
+      },
+      {
+        "q": "Completa: ___ Lampe ist neu.",
+        "a": [
+          "Der",
+          "Die",
+          "Das"
+        ],
+        "correct": 1,
+        "why": "Die Lampe."
+      },
+      {
+        "q": "«klein» es lo contrario de:",
+        "a": [
+          "groß",
+          "alt",
+          "gut"
+        ],
+        "correct": 0,
+        "why": "Klein/ groß: pequeño/grande."
+      },
+      {
+        "q": "Completa: Das ___ interessant.",
+        "a": [
+          "sein",
+          "ist",
+          "bist"
+        ],
+        "correct": 1,
+        "why": "Das ist interessant."
+      },
+      {
+        "q": "¿Cuál es el artículo de «Stuhl»?",
+        "a": [
+          "das",
+          "die",
+          "der"
+        ],
+        "correct": 2,
+        "why": "Der Stuhl."
       }
     ]
   },
@@ -231,6 +471,66 @@
         ],
         "correct": 1,
         "why": "rot = rojo."
+      },
+      {
+        "q": "Completa: Ist das ___ Auto?",
+        "a": [
+          "ein",
+          "eine",
+          "einen"
+        ],
+        "correct": 0,
+        "why": "Auto es neutro: ein Auto."
+      },
+      {
+        "q": "¿Cuál es la negación de «ein Buch»?",
+        "a": [
+          "keine Buch",
+          "kein Buch",
+          "keinen Buch"
+        ],
+        "correct": 1,
+        "why": "Neutro nominativo: kein Buch."
+      },
+      {
+        "q": "Completa: Das ist ___ Tasche.",
+        "a": [
+          "ein",
+          "eine",
+          "einen"
+        ],
+        "correct": 1,
+        "why": "Tasche es femenino."
+      },
+      {
+        "q": "¿Qué significa «teuer»?",
+        "a": [
+          "barato",
+          "caro",
+          "rojo"
+        ],
+        "correct": 1,
+        "why": "Teuer = caro."
+      },
+      {
+        "q": "«Wie viel kostet das?» significa:",
+        "a": [
+          "¿Cuánto cuesta?",
+          "¿Qué hora es?",
+          "¿Qué es esto?"
+        ],
+        "correct": 0,
+        "why": "Pregunta el precio."
+      },
+      {
+        "q": "Completa: ___ ist das? – Ein Handy.",
+        "a": [
+          "Wer",
+          "Was",
+          "Wo"
+        ],
+        "correct": 1,
+        "why": "Was = qué."
       }
     ]
   },
@@ -284,6 +584,66 @@
         ],
         "correct": 0,
         "why": "einen Termin haben = tener una cita."
+      },
+      {
+        "q": "Completa: Ich habe ___ Hund.",
+        "a": [
+          "ein",
+          "eine",
+          "einen"
+        ],
+        "correct": 2,
+        "why": "Hund masculino en acusativo: einen."
+      },
+      {
+        "q": "Completa: Sie kauft ___ Jacke.",
+        "a": [
+          "einen",
+          "eine",
+          "ein"
+        ],
+        "correct": 1,
+        "why": "Jacke femenino acusativo: eine."
+      },
+      {
+        "q": "«der Termin» significa:",
+        "a": [
+          "la cita",
+          "la puerta",
+          "el boleto"
+        ],
+        "correct": 0,
+        "why": "Termin = cita."
+      },
+      {
+        "q": "Completa: Wir ___ heute Zeit.",
+        "a": [
+          "hat",
+          "haben",
+          "hast"
+        ],
+        "correct": 1,
+        "why": "Wir haben."
+      },
+      {
+        "q": "¿Qué caso aparece tras «haben» para el objeto directo?",
+        "a": [
+          "Nominativ",
+          "Akkusativ",
+          "Genitiv"
+        ],
+        "correct": 1,
+        "why": "Haben rige objeto directo en acusativo."
+      },
+      {
+        "q": "Completa: Er braucht ___ Computer.",
+        "a": [
+          "einen",
+          "ein",
+          "eine"
+        ],
+        "correct": 0,
+        "why": "Computer masculino acusativo: einen."
       }
     ]
   },
@@ -337,6 +697,66 @@
         ],
         "correct": 1,
         "why": "Con wir se usa können."
+      },
+      {
+        "q": "Completa: Ich ___ schwimmen.",
+        "a": [
+          "kann",
+          "kannst",
+          "können"
+        ],
+        "correct": 0,
+        "why": "Ich kann."
+      },
+      {
+        "q": "Completa: Du ___ gut singen.",
+        "a": [
+          "kann",
+          "kannst",
+          "könnt"
+        ],
+        "correct": 1,
+        "why": "Du kannst."
+      },
+      {
+        "q": "¿Dónde va el infinitivo con «können»?",
+        "a": [
+          "Al final",
+          "Al principio",
+          "Siempre en segundo lugar"
+        ],
+        "correct": 0,
+        "why": "El infinitivo va al final."
+      },
+      {
+        "q": "«gern» significa:",
+        "a": [
+          "con gusto",
+          "todavía",
+          "muy tarde"
+        ],
+        "correct": 0,
+        "why": "Gern expresa agrado."
+      },
+      {
+        "q": "Completa: Wir ___ tanzen.",
+        "a": [
+          "könnt",
+          "können",
+          "kann"
+        ],
+        "correct": 1,
+        "why": "Wir können."
+      },
+      {
+        "q": "¿Qué significa «Ich spiele gern Fußball»?",
+        "a": [
+          "Me gusta jugar fútbol",
+          "Debo jugar fútbol",
+          "No juego fútbol"
+        ],
+        "correct": 0,
+        "why": "Gern señala preferencia."
       }
     ]
   },
@@ -390,6 +810,66 @@
         ],
         "correct": 0,
         "why": "Zeit = tiempo."
+      },
+      {
+        "q": "Completa: Ich ___ heute arbeiten.",
+        "a": [
+          "muss",
+          "musst",
+          "müssen"
+        ],
+        "correct": 0,
+        "why": "Ich muss."
+      },
+      {
+        "q": "Completa: Du ___ morgen kommen.",
+        "a": [
+          "musst",
+          "muss",
+          "müssen"
+        ],
+        "correct": 0,
+        "why": "Du musst."
+      },
+      {
+        "q": "«keine Zeit» significa:",
+        "a": [
+          "sin tiempo disponible",
+          "mucho tiempo",
+          "tiempo libre"
+        ],
+        "correct": 0,
+        "why": "Keine Zeit haben = no tener tiempo."
+      },
+      {
+        "q": "¿Cómo dices «a las ocho»?",
+        "a": [
+          "um acht Uhr",
+          "in acht Uhr",
+          "an acht Uhr"
+        ],
+        "correct": 0,
+        "why": "Se usa um con horas."
+      },
+      {
+        "q": "Completa: Es ist halb ___. (7:30)",
+        "a": [
+          "sieben",
+          "acht",
+          "neun"
+        ],
+        "correct": 1,
+        "why": "Halb acht = siete y media."
+      },
+      {
+        "q": "«Wann?» significa:",
+        "a": [
+          "¿Cuándo?",
+          "¿Dónde?",
+          "¿Quién?"
+        ],
+        "correct": 0,
+        "why": "Wann pregunta por el tiempo."
       }
     ]
   },
@@ -443,6 +923,66 @@
         ],
         "correct": 0,
         "why": "Suppe = sopa."
+      },
+      {
+        "q": "Completa: Ich ___ einen Kaffee.",
+        "a": [
+          "möchte",
+          "möchtest",
+          "möchten"
+        ],
+        "correct": 0,
+        "why": "Ich möchte."
+      },
+      {
+        "q": "¿Cuál es el artículo de «Wasser»?",
+        "a": [
+          "das",
+          "die",
+          "der"
+        ],
+        "correct": 0,
+        "why": "Das Wasser."
+      },
+      {
+        "q": "«die Rechnung» significa:",
+        "a": [
+          "la cuenta",
+          "la cocina",
+          "la bebida"
+        ],
+        "correct": 0,
+        "why": "Rechnung = cuenta."
+      },
+      {
+        "q": "Completa: Ich nehme ___ Salat.",
+        "a": [
+          "einen",
+          "ein",
+          "eine"
+        ],
+        "correct": 0,
+        "why": "Salat masculino acusativo: einen."
+      },
+      {
+        "q": "«Zum Mitnehmen» significa:",
+        "a": [
+          "para llevar",
+          "para pagar",
+          "para cocinar"
+        ],
+        "correct": 0,
+        "why": "Zum Mitnehmen = para llevar."
+      },
+      {
+        "q": "¿Qué significa «lecker»?",
+        "a": [
+          "delicioso",
+          "picante",
+          "frío"
+        ],
+        "correct": 0,
+        "why": "Lecker = delicioso."
       }
     ]
   },
@@ -496,6 +1036,66 @@
         ],
         "correct": 0,
         "why": "U-Bahn = metro."
+      },
+      {
+        "q": "«einsteigen» significa:",
+        "a": [
+          "subirse a un transporte",
+          "levantarse",
+          "bajarse"
+        ],
+        "correct": 0,
+        "why": "Einsteigen = subir a un vehículo."
+      },
+      {
+        "q": "Completa: Ich ___ an der nächsten Station ___.",
+        "a": [
+          "steige / aus",
+          "steigt / aus",
+          "steigen / aus"
+        ],
+        "correct": 0,
+        "why": "Ich steige ... aus."
+      },
+      {
+        "q": "«die Haltestelle» significa:",
+        "a": [
+          "la parada",
+          "el aeropuerto",
+          "la plaza"
+        ],
+        "correct": 0,
+        "why": "Haltestelle = parada."
+      },
+      {
+        "q": "«geradeaus» significa:",
+        "a": [
+          "a la derecha",
+          "todo recto",
+          "hacia atrás"
+        ],
+        "correct": 1,
+        "why": "Geradeaus = recto."
+      },
+      {
+        "q": "Completa: Er ___ um acht Uhr ___.",
+        "a": [
+          "steht / auf",
+          "stehen / auf",
+          "stehe / auf"
+        ],
+        "correct": 0,
+        "why": "Er steht ... auf."
+      },
+      {
+        "q": "¿Qué significa «umsteigen»?",
+        "a": [
+          "hacer transbordo",
+          "llegar tarde",
+          "caminar"
+        ],
+        "correct": 0,
+        "why": "Umsteigen = hacer transbordo."
       }
     ]
   },
@@ -549,6 +1149,66 @@
         ],
         "correct": 0,
         "why": "hören → gehört."
+      },
+      {
+        "q": "Completa: Ich habe gestern Deutsch ___.",
+        "a": [
+          "gelernt",
+          "lernen",
+          "lernte"
+        ],
+        "correct": 0,
+        "why": "Perfekt de lernen: gelernt."
+      },
+      {
+        "q": "Completa: Sie hat Musik ___.",
+        "a": [
+          "gehört",
+          "hören",
+          "hört"
+        ],
+        "correct": 0,
+        "why": "Perfekt de hören: gehört."
+      },
+      {
+        "q": "«gestern» significa:",
+        "a": [
+          "mañana",
+          "ayer",
+          "hoy"
+        ],
+        "correct": 1,
+        "why": "Gestern = ayer."
+      },
+      {
+        "q": "¿Qué auxiliar se usa en «Ich habe gekocht»?",
+        "a": [
+          "sein",
+          "haben",
+          "werden"
+        ],
+        "correct": 1,
+        "why": "Kochen suele formar Perfekt con haben."
+      },
+      {
+        "q": "Completa: Wir haben Pizza ___.",
+        "a": [
+          "gegessen",
+          "geessen",
+          "essen"
+        ],
+        "correct": 0,
+        "why": "Partizip II de essen: gegessen."
+      },
+      {
+        "q": "«Was hast du gemacht?» significa:",
+        "a": [
+          "¿Qué hiciste?",
+          "¿Qué haces?",
+          "¿Qué harás?"
+        ],
+        "correct": 0,
+        "why": "Perfekt pregunta por una acción pasada."
       }
     ]
   },
@@ -602,6 +1262,66 @@
         ],
         "correct": 0,
         "why": "ankommen → angekommen."
+      },
+      {
+        "q": "Completa: Ich ___ nach Berlin gefahren.",
+        "a": [
+          "habe",
+          "bin",
+          "hat"
+        ],
+        "correct": 1,
+        "why": "Fahren con desplazamiento: bin gefahren."
+      },
+      {
+        "q": "Completa: Sie ist spät ___.",
+        "a": [
+          "gekommen",
+          "gekommt",
+          "kommen"
+        ],
+        "correct": 0,
+        "why": "Partizip II de kommen: gekommen."
+      },
+      {
+        "q": "«letzte Woche» significa:",
+        "a": [
+          "la semana pasada",
+          "la próxima semana",
+          "esta semana"
+        ],
+        "correct": 0,
+        "why": "Letzte Woche = la semana pasada."
+      },
+      {
+        "q": "Completa: Wir ___ zu Hause geblieben.",
+        "a": [
+          "haben",
+          "sind",
+          "hat"
+        ],
+        "correct": 1,
+        "why": "Bleiben usa sein en Perfekt."
+      },
+      {
+        "q": "¿Qué significa «angekommen»?",
+        "a": [
+          "llegado",
+          "salido",
+          "comprado"
+        ],
+        "correct": 0,
+        "why": "Angekommen = llegado."
+      },
+      {
+        "q": "Completa: Er ist früh ___.",
+        "a": [
+          "aufgestanden",
+          "geaufstanden",
+          "aufstehen"
+        ],
+        "correct": 0,
+        "why": "Partizip de aufstehen: aufgestanden."
       }
     ]
   }
