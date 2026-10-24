@@ -1,0 +1,7 @@
+STRUDEL INTENSIV — VERSIÓN 1
+
+Sube TODOS los archivos de esta carpeta a la raíz de un repositorio de GitHub. En Settings > Pages elige Deploy from a branch, main, / (root). Abre la URL que GitHub Pages te indique.
+
+Contenido actual: 3 lecciones originales A1, 9 preguntas, corrección, audio del navegador, modo oscuro, texto grande, progreso local, PWA y caché offline. No contiene páginas copiadas de Momente.
+
+IMPORTANTE: el progreso se guarda solo en el navegador/dispositivo; borrar los datos del navegador puede eliminarlo. Las voces de audio dependen del dispositivo y pueden requerir conexión. Para actualizar: reemplaza archivos y espera que se renueve la caché; si no ves cambios, cierra y reabre la app.

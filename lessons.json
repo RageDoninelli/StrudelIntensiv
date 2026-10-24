@@ -1,0 +1,131 @@
+[
+  {
+    "id": "01",
+    "title": "Hallo! Ich bin …",
+    "subtitle": "Saludos y presentaciones",
+    "explain": "Para presentarte, usa «Ich heiße …» (me llamo…) o «Ich bin …» (soy…). Para preguntar el nombre: «Wie heißt du?» (informal) y «Wie heißen Sie?» (formal).",
+    "examples": [
+      "Hallo! Ich heiße Anna.",
+      "Wie heißt du? – Ich heiße Luis.",
+      "Guten Morgen! Wie heißen Sie?"
+    ],
+    "questions": [
+      {
+        "q": "¿Cómo dices «Me llamo Ana»?",
+        "a": [
+          "Ich heiße Ana.",
+          "Du heißt Ana.",
+          "Ich komme Ana."
+        ],
+        "correct": 0,
+        "why": "«Ich heiße» significa «me llamo»."
+      },
+      {
+        "q": "¿Cuál es la pregunta informal «¿Cómo te llamas?»?",
+        "a": [
+          "Wo wohnst du?",
+          "Wie heißt du?",
+          "Wie alt bist du?"
+        ],
+        "correct": 1,
+        "why": "«Wie heißt du?» pregunta el nombre de alguien de confianza."
+      },
+      {
+        "q": "¿Cuál es un saludo de mañana?",
+        "a": [
+          "Gute Nacht!",
+          "Tschüss!",
+          "Guten Morgen!"
+        ],
+        "correct": 2,
+        "why": "«Guten Morgen!» significa «Buenos días» por la mañana."
+      }
+    ]
+  },
+  {
+    "id": "02",
+    "title": "Woher kommst du?",
+    "subtitle": "Países e idiomas",
+    "explain": "«Ich komme aus Guatemala» indica procedencia. «Ich spreche Spanisch» expresa qué idioma hablas. El verbo «kommen» cambia: ich komme, du kommst, er/sie kommt.",
+    "examples": [
+      "Ich komme aus Guatemala.",
+      "Woher kommst du?",
+      "Ich spreche Spanisch und ein bisschen Deutsch."
+    ],
+    "questions": [
+      {
+        "q": "Completa: Ich ___ aus Guatemala.",
+        "a": [
+          "kommst",
+          "komme",
+          "kommt"
+        ],
+        "correct": 1,
+        "why": "Con «ich», la forma es «komme»."
+      },
+      {
+        "q": "¿Qué significa «Woher kommst du?»?",
+        "a": [
+          "¿De dónde eres?",
+          "¿Dónde vives?",
+          "¿Cómo te llamas?"
+        ],
+        "correct": 0,
+        "why": "«Woher» pregunta por el origen."
+      },
+      {
+        "q": "Completa: Sie ___ Deutsch. (ella)",
+        "a": [
+          "spreche",
+          "sprichst",
+          "spricht"
+        ],
+        "correct": 2,
+        "why": "«sprechen» cambia la vocal con «er/sie/es»: spricht."
+      }
+    ]
+  },
+  {
+    "id": "03",
+    "title": "Das ist meine Familie",
+    "subtitle": "Familia y posesivos",
+    "explain": "Para presentar familiares: «Das ist mein Vater» o «Das ist meine Mutter». En nominativo, «mein» se usa con sustantivos masculinos y neutros; «meine», con femeninos y plurales.",
+    "examples": [
+      "Das ist mein Bruder.",
+      "Das ist meine Schwester.",
+      "Meine Eltern wohnen in Berlin."
+    ],
+    "questions": [
+      {
+        "q": "Completa: Das ist ___ Mutter.",
+        "a": [
+          "mein",
+          "meine",
+          "meinen"
+        ],
+        "correct": 1,
+        "why": "«Mutter» es femenino: «meine Mutter»."
+      },
+      {
+        "q": "¿Qué significa «der Bruder»?",
+        "a": [
+          "El padre",
+          "El hermano",
+          "El abuelo"
+        ],
+        "correct": 1,
+        "why": "«der Bruder» significa «el hermano»."
+      },
+      {
+        "q": "Completa: ___ Vater ist Lehrer.",
+        "a": [
+          "Mein",
+          "Meine",
+          "Meinen"
+        ],
+        "correct": 0,
+        "why": "«Vater» es masculino nominativo: «mein Vater»."
+      }
+    ]
+  }
+]
