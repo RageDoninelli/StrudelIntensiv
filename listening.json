@@ -1,0 +1,110 @@
+[
+  {
+    "de": "Wie heißt du?",
+    "correct": "¿Cómo te llamas?",
+    "options": [
+      "¿Cómo te llamas?",
+      "¿Dónde vives?",
+      "¿Cuántos años tienes?"
+    ]
+  },
+  {
+    "de": "Ich komme aus Guatemala.",
+    "correct": "Soy de Guatemala.",
+    "options": [
+      "Soy de Guatemala.",
+      "Voy a Guatemala.",
+      "Trabajo en Guatemala."
+    ]
+  },
+  {
+    "de": "Ich spreche ein bisschen Deutsch.",
+    "correct": "Hablo un poco de alemán.",
+    "options": [
+      "Hablo un poco de alemán.",
+      "No hablo alemán.",
+      "Aprendo inglés."
+    ]
+  },
+  {
+    "de": "Das ist meine Schwester.",
+    "correct": "Esta es mi hermana.",
+    "options": [
+      "Esta es mi hermana.",
+      "Este es mi hermano.",
+      "Esta es mi madre."
+    ]
+  },
+  {
+    "de": "Der Kaffee ist heiß.",
+    "correct": "El café está caliente.",
+    "options": [
+      "El café está caliente.",
+      "El café está frío.",
+      "El té está caliente."
+    ]
+  },
+  {
+    "de": "Ich hätte gern ein Wasser.",
+    "correct": "Quisiera un agua.",
+    "options": [
+      "Quisiera un agua.",
+      "Quisiera un café.",
+      "Tengo agua."
+    ]
+  },
+  {
+    "de": "Wann fährt der Bus?",
+    "correct": "¿Cuándo sale el autobús?",
+    "options": [
+      "¿Cuándo sale el autobús?",
+      "¿Dónde está el tren?",
+      "¿Cuánto cuesta el autobús?"
+    ]
+  },
+  {
+    "de": "Wir lernen heute Deutsch.",
+    "correct": "Hoy aprendemos alemán.",
+    "options": [
+      "Hoy aprendemos alemán.",
+      "Mañana aprendemos alemán.",
+      "Hoy enseñamos inglés."
+    ]
+  },
+  {
+    "de": "Ich muss morgen arbeiten.",
+    "correct": "Mañana tengo que trabajar.",
+    "options": [
+      "Mañana tengo que trabajar.",
+      "Hoy quiero descansar.",
+      "Ayer trabajé."
+    ]
+  },
+  {
+    "de": "Das Buch liegt auf dem Tisch.",
+    "correct": "El libro está sobre la mesa.",
+    "options": [
+      "El libro está sobre la mesa.",
+      "La mesa está en el libro.",
+      "El cuaderno está bajo la silla."
+    ]
+  },
+  {
+    "de": "Wie viel kostet das?",
+    "correct": "¿Cuánto cuesta eso?",
+    "options": [
+      "¿Cuánto cuesta eso?",
+      "¿Cómo se llama eso?",
+      "¿Dónde está eso?"
+    ]
+  },
+  {
+    "de": "Ich habe zwei Kinder.",
+    "correct": "Tengo dos hijos.",
+    "options": [
+      "Tengo dos hijos.",
+      "Tengo tres hermanos.",
+      "Soy un niño."
+    ]
+  }
+]

@@ -1,6 +1,5 @@
-STRUDEL INTENSIV v3
+STRUDEL INTENSIV v4
 
-Actualización sobre v2: 12 lecciones, 117 preguntas, examen de 36 preguntas, checklist diario y kit docente.
-Sube los 7 archivos a la raíz del repositorio StrudelIntensiv, reemplazando los anteriores.
-No borres los datos del navegador para conservar el progreso.
-El examen y las preguntas son práctica original, no una certificación ni reproducción de Momente.
+Extrae el ZIP y sube LOS NUEVE archivos a la raíz del repositorio StrudelIntensiv. Reemplaza los siete anteriores y añade vocab.json y listening.json. Mantén el mismo dominio para conservar el progreso guardado localmente. Si ves la versión antigua, cierra y vuelve a abrir la aplicación.
+
+Novedades: 60 tarjetas con repaso espaciado y 12 ejercicios de escucha mediante la voz alemana del dispositivo. El sonido depende de las voces disponibles en Android y del navegador.
