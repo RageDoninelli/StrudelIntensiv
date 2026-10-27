@@ -1,5 +1,9 @@
-STRUDEL INTENSIV v4
+STRUDEL ACADEMY 1.0 — EDICIÓN ACADÉMICA ORIGINAL
 
-Extrae el ZIP y sube LOS NUEVE archivos a la raíz del repositorio StrudelIntensiv. Reemplaza los siete anteriores y añade vocab.json y listening.json. Mantén el mismo dominio para conservar el progreso guardado localmente. Si ves la versión antigua, cierra y vuelve a abrir la aplicación.
-
-Novedades: 60 tarjetas con repaso espaciado y 12 ejercicios de escucha mediante la voz alemana del dispositivo. El sonido depende de las voces disponibles en Android y del navegador.
+Publicación: subir los archivos a la raíz del repositorio StrudelIntensiv de GitHub Pages.
+Incluye 60 lecciones, explicaciones, vocabulario, diálogos, tareas y preguntas de práctica.
+No es equivalente a un curso editorial exhaustivo validado ni acredita un nivel MCER.
+Los audios se producen con la síntesis de voz del dispositivo, si está disponible.
+Progreso: se conserva con las claves strudel- de las versiones anteriores; exportar respaldo antes de actualizar.
+Correcciones: modificar archivos del proyecto y actualizar versión de caché en sw.js.
+No incluye contenido copiado de los PDF de Hueber.

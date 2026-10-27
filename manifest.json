@@ -1,24 +1,22 @@
 {
-  "name": "Strudel Intensiv – Deutsch",
-  "short_name": "Strudel",
-  "description": "Repaso intensivo de alemán para uso personal",
+  "name": "Strudel Academy — Curso de alemán",
+  "short_name": "Strudel Academy",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "background_color": "#f4f7f4",
   "theme_color": "#183b35",
+  "description": "Curso interactivo original de alemán A1.1 a B1.1 con repaso, exámenes y modo docente.",
   "icons": [
     {
       "src": "icon-192.png",
       "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "any maskable"
+      "type": "image/png"
     },
     {
       "src": "icon-512.png",
       "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any maskable"
+      "type": "image/png"
     }
   ]
 }
